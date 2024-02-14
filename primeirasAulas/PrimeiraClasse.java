@@ -1,3 +1,5 @@
+package primeirasAulas;
+
 /*PrimeiraClasse = Nome da Classe
  * public = Tipo de acesso da classe
  * class = tipo da classe
